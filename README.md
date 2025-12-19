@@ -38,7 +38,7 @@ Compact_Text_Editor_Web/
 ├─ README.md
 ├─ .gitignore
 └─ Versions/
-└─ v1.0/
+
 
 
 All development versions are stored inside the `Versions` directory to keep the repository clean and versioned properly.
