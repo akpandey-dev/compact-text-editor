@@ -9,7 +9,7 @@ This version is distributed in two formats: a **single-file build** and a **modu
 
 ## Available Builds
 
-### 1. Single-file Version(single-file/)
+### 1. Single-file Version(`single-file/`)
 
 **Text_Editor.html**
 
@@ -21,7 +21,7 @@ This version is distributed in two formats: a **single-file build** and a **modu
 
 ---
 
-### 2. Modular Version(modular/)
+### 2. Modular Version(`modular/`)
 
 **index.html + style.css + script.js**
 
