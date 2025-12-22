@@ -32,16 +32,10 @@ This project focuses on simplicity, portability, and direct DOM-based text manip
 
 ---
 
-## Project Structure
+### Repository Structure
 
-Compact_Text_Editor_Web/
-├─ README.md
-├─ .gitignore
-└─ Versions/
-
-
-
-All development versions are stored inside the `Versions` directory to keep the repository clean and versioned properly.
+All project versions are organized under the `Versions/` directory.  
+Each version folder contains its own documentation explaining available formats, features, and usage instructions.
 
 ---
 
