@@ -13,20 +13,14 @@ This project focuses on simplicity, portability, and direct DOM-based text manip
 
 ## Features
 
-- Editable rich-text area using `contenteditable`
-- Text formatting:
-  - Bold, Italic, Underline
-  - Strikethrough, Mark (highlight)
-  - Superscript and Subscript
-  - Inline code formatting
-- Font controls:
-  - Font family selection
-  - Font size adjustment
-  - Text color picker
-- Text alignment:
-  - Left, Right, Center, Justify
-- Live word and character counter
-- Clear formatting or clear entire content
+- Rich text editing using a `contenteditable` container
+- Inline formatting using native DOM Range and Selection APIs
+- Partial-text styling (color, size, font) without affecting entire content
+- Full-content formatting when no text is selected
+- Live word and character counter based on visible text
+- Manual line breaks and text alignment controls
+- Formatting reset without deleting text
+- Full reset with confirmation prompt
 - Export edited content as a standalone HTML file
 - Fully offline and self-contained
 
@@ -60,3 +54,7 @@ No installation required.
 ## License
 
 This project is open for learning, modification, and experimentation.
+
+---
+> 🌐 **Try Live**  
+> Try it here: https://akp-labs.github.io/compact-text-editor
