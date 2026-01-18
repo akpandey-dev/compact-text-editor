@@ -11,7 +11,7 @@ This version is distributed in two formats: a **single-file build** and a **modu
 
 ### 1. Single-file Version(`single-file/`)
 
-**Text_Editor.html**
+**compact-text-editor.html**
 
 
 - Contains HTML, CSS, and JavaScript in one file

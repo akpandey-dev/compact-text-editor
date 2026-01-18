@@ -1,4 +1,4 @@
-# Compact_Text_Editor_Web
+# Compact Text Editor
 
 A lightweight, browser-based text editor built using pure HTML, CSS, and JavaScript.  
 It is for quick note-taking and text formatting. Features include bold, italics, underline, code blocks, superscript/subscript, text color, font size, alignment options, and live word/character counters.
@@ -28,7 +28,7 @@ This project focuses on simplicity, portability, and direct DOM-based text manip
 
 ### Repository Structure
 
-All project versions are organized under the `Versions/` directory.  
+All project versions are organized under the `versions/` directory.  
 Each version folder contains its own documentation explaining available formats, features, and usage instructions.
 
 ---
@@ -37,9 +37,10 @@ Each version folder contains its own documentation explaining available formats,
 
 No installation required.
 
-1. Navigate to a version inside the `Versions` directory
-2. Open the HTML file in any modern browser
-3. Start editing immediately
+1. Navigate to a version inside the `versions` directory
+2. Choose you preferred build
+3. Open the HTML file in any modern browser
+4. Start editing immediately
 
 ---
 
