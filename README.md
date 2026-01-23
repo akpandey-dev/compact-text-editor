@@ -1,9 +1,10 @@
 # Compact Text Editor
 
 A lightweight, browser-based text editor built using pure HTML, CSS, and JavaScript.  
-It is for quick note-taking and text formatting. Features include bold, italics, underline, code blocks, superscript/subscript, text color, font size, alignment options, and live word/character counters.
-Save your work instantly as HTML with one click.
+It is for quick note-taking and text formatting. Save your work instantly as HTML with one click. 
 Designed as a compact, dependency-free writing tool with rich-text formatting, live word/character counting, and offline usability.
+Features include bold, italics, underline, code blocks, superscript/subscript, text color, font size, alignment options, and live word/character counters.
+
 
 This project focuses on simplicity, portability, and direct DOM-based text manipulation without external libraries or frameworks.
 
