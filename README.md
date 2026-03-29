@@ -38,10 +38,11 @@ Each version folder contains its own documentation explaining available formats,
 
 No installation required.
 
-1. Navigate to a version inside the `versions` directory
-2. Choose you preferred build
-3. Open the HTML file in any modern browser
-4. Start editing immediately
+1. Clone the repository(or download the specific file(s))
+2. Navigate to a version inside the `versions` directory
+3. Choose you preferred build
+4. Open the HTML file in any modern browser
+5. Start editing immediately
 
 ---
 
@@ -59,4 +60,4 @@ This project is open for learning, modification, and experimentation.
 
 ---
 > 🌐 **Try Live**  
-> Try it here: https://akp-labs.github.io/compact-text-editor
+> Try it here: https://akpandey-dev.github.io/compact-text-editor
